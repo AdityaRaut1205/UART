@@ -1,0 +1,10 @@
+# UART Design
+This folder contains the RTL design files for the UART system.
+
+Modules included:
+baud_rate_generator.sv
+uart_tx.sv
+uart_rx.sv
+top.sv
+
+The design supports configurable baud rate, data width, parity, stop bits, and 16x RX oversampling.
