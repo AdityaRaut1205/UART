@@ -1,0 +1,24 @@
+# Vivado Temporary and Log Files
+*.log
+*.jou
+*.str
+*.wdb
+*.vcd
+*.pb
+*.dmp
+*.bak
+
+# Vivado generated project directories
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+
+# Windows OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
